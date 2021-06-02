@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46785792877",
+    "project_id": "rdvapp-b2951",
+    "storage_bucket": "rdvapp-b2951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46785792877:android:afd2a091a79f35eed42864",
+        "android_client_info": {
+          "package_name": "com.example.DemoMenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46785792877-41m1d77fmk92v1okpqs7il272nhck44m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "API KEY FIREBASE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46785792877-41m1d77fmk92v1okpqs7il272nhck44m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
